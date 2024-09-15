@@ -13,10 +13,10 @@ Signs of a Potentially Scammy Bug Bounty Program:
 
 | Program Name              | Issues Reported                                        | Source     | Hits
 |---------------------------|-------------------------------------------------------|----------------------------------| ------
-| **[Standard.com](https://www.standard.com/get-to-know-standard/responsible-disclosure-program)**    | No rewards | Trusted hacker        | 0%
-| **[H&M](https://www.hm.com/security.txt)** | No rewards | Trusted hacker        | 0%
-| **[Celonis](https://www.celonis.com/pdf/vulnerability-disclosure-program/)** | Ignored reports | Trusted hacker        | 0%
-| **[Kaseya](https://www.kaseya.com/trust-center/vulnerability-disclosure-policy/)** | Report triaged, then no response| Trusted hacker     | 0% 
+| **[Standard.com](https://www.standard.com/get-to-know-standard/responsible-disclosure-program)**    | No rewards | Trusted hacker        | 1
+| **[H&M](https://www.hm.com/security.txt)** | No rewards | Trusted hacker        | 1
+| **[Celonis](https://www.celonis.com/pdf/vulnerability-disclosure-program/)** | Ignored reports | Trusted hacker        | 1
+| **[Kaseya](https://www.kaseya.com/trust-center/vulnerability-disclosure-policy/)** | Report triaged, then no response| Trusted hacker     | 1 
 
 ## Details
 
