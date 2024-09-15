@@ -9,9 +9,9 @@ Signs of a Potentially Scammy Bug Bounty Program:
 - Absence of a Proper Vulnerability Disclosure Policy: No clear process for how to responsibly disclose vulnerabilities.
 - Little to No Community Feedback: Lack of reputation or negative reviews from the infosec community.
 
-`Score: good_reviews/(good_reviews+bad_reviews) * 100`
+`Hits: # of reports of being scammy`
 
-| Program Name              | Issues Reported                                        | Source     | Score (%)
+| Program Name              | Issues Reported                                        | Source     | Hits
 |---------------------------|-------------------------------------------------------|----------------------------------| ------
 | **[Standard.com](https://www.standard.com/get-to-know-standard/responsible-disclosure-program)**    | No rewards | Trusted hacker        | 0%
 | **[H&M](https://www.hm.com/security.txt)** | No rewards | Trusted hacker        | 0%
