@@ -20,5 +20,5 @@ Signs of a Potentially Scammy Bug Bounty Program:
 
 ## Details
 
-- Ignored reports: They never replied back to researcher. 
+- Ignored reports: They never replied back to researcher. Never > 2 months and counting.
 - No rewards: They promise rewards for reports in their program, but fail to pay them. Sometimes they just say they stopped paying rewards or they can't do it anymore. 
