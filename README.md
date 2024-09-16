@@ -6,7 +6,6 @@ Signs of a Potentially Scammy Bug Bounty Program:
 
 - Unclear Terms and Conditions: Programs that don't clearly specify what vulnerabilities qualify for rewards or the amount of the reward.
 - No Transparent Payment Structure: Lack of details about payment timelines, payout methods, or cases where people report not getting paid.
-- Absence of a Proper Vulnerability Disclosure Policy: No clear process for how to responsibly disclose vulnerabilities.
 - Little to No Community Feedback: Lack of reputation or negative reviews from the infosec community.
 
 `Hits: # of reports of being scammy`
