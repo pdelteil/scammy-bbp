@@ -16,6 +16,7 @@ Signs of a Potentially Scammy Bug Bounty Program:
 | **[H&M](https://www.hm.com/security.txt)** | No rewards | Trusted hacker        | 1
 | **[Celonis](https://www.celonis.com/pdf/vulnerability-disclosure-program/)** | Ignored reports | Trusted hacker        | 1
 | **[Kaseya](https://www.kaseya.com/trust-center/vulnerability-disclosure-policy/)** | Report triaged, then no response| Trusted hacker     | 1 
+| **[TataPlay](https://www.tataplay.com/bug-bounty-hunter)** | Automated Response, then no response | Trusted Hacker | 1
 
 ## Details
 
