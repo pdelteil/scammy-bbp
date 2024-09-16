@@ -17,7 +17,7 @@ Signs of a Potentially Scammy Bug Bounty Program:
 | **[Celonis](https://www.celonis.com/pdf/vulnerability-disclosure-program/)** | Ignored reports | Trusted hacker        | 1
 | **[Kaseya](https://www.kaseya.com/trust-center/vulnerability-disclosure-policy/)** | Report triaged, then no response| Trusted hacker     | 1 
 | **[TataPlay](https://www.tataplay.com/bug-bounty-hunter)** | Automated Response, then no response | Trusted Hacker | 1
-| **[Roche](https://hackerone.com/roche?type=team)** | They fix reports but mark them as Out of scope (subdomain takeovers). The won't invite you to their private program unless you report a P1/P2 bug. They mark report as duplicated when they are fresh subdomain takeovers. They claimed all DNS takeovers were dups without having the full list of domains (150 cases).  | Trusted Hacker | 2
+| **[Roche](https://hackerone.com/roche?type=team)** | They fix reports but mark them as Out of scope (subdomain takeovers).The won't invite you to their private program unless you report a P1/P2 bug. They mark report as duplicated when they are fresh subdomain takeovers. They claimed all DNS takeovers were dups without having the full list of domains (150 cases).  | Trusted Hacker | 2
 | **[Synack](https://synack.responsibledisclosure.com/hc/en-us)** | They will assign a reward only if you have an account in their site (which is very difficult to get) | Trusted Hacker | 1
 
 
