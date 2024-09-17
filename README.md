@@ -20,6 +20,7 @@ Signs of a Potentially Scammy Bug Bounty Program:
 | **[Roche](https://hackerone.com/roche?type=team)** | They fix reports but mark them as Out of scope (subdomain takeovers). They won't invite you to their private program unless you report a P1/P2 bug. They mark report as duplicated when they are fresh subdomain takeovers. They claimed all DNS takeovers were dups without having the full list of domains (150 cases). |Self hosted | Trusted Hacker | 2
 | **[Synack](https://synack.responsibledisclosure.com/hc/en-us)** | They will assign a reward only if you have an account in their site (which is very difficult to get) |Self hosted | Trusted Hacker | 1
 | **[Zeiss](https://www.zeiss.com/disclosure-policy.pdf)**| Ignored reports | Self hosted |Trusted hacker        | 1
+| **[Alefed](https://vdp.alefeducation.com/p/Vulnerability-Disclosure-Policy-and-Submission-Form)**| Set CVSS as 0 but fixed the bug |Self hosted|Trusted hacker | 1
 
 
 ## Details
