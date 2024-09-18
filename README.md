@@ -23,6 +23,7 @@ Signs of a Potentially Scammy Bug Bounty Program:
 | **[Cex.io](https://blog.cex.io/news/cex-io-bug-bounty-program-and-policy-22948)**| Failed to pay<sup>4</sup> | Self hosted | Trusted hacker | 1 
 | **[Roche](https://hackerone.com/roche?type=team)** | Patch & Pass<sup>5</sup><br> P1 or You're Out<sup>6</sup><br> Duplicate Disguise<sup>7</sup><br>Duplicate Mirage<sup>8</sup> |Self hosted | Trusted Hacker | 2
 | **[Zopa](https://zopa.com/.well-known/security.txt)** | Scope Surprise!<sup>9</sup> |Self hosted | Trusted hacker | 1
+| **[Atos](https://hackerone.com/atos?type=team)**| Bounty Roulette<sup>11</sup>|Self hosted | Trusted hacker | 1
 
 ## Details
 
