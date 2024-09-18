@@ -12,18 +12,20 @@ Signs of a Potentially Scammy Bug Bounty Program:
 
 | Program Name              | Issues Reported                                        | Platform | Source     | Hits
 |---------------------------|-------------------------------------------------------|------------|----------------------| ------
-| **[Standard.com](https://www.standard.com/get-to-know-standard/responsible-disclosure-program)**    | No rewards |Self hosted| Trusted hacker        | 1
-| **[H&M](https://www.hm.com/security.txt)** | No rewards |Self hosted|  Trusted hacker       | 1
-| **[Celonis](https://www.celonis.com/pdf/vulnerability-disclosure-program/)** | Ignored reports | Self hosted |Trusted hacker        | 1
-| **[Kaseya](https://www.kaseya.com/trust-center/vulnerability-disclosure-policy/)** | Report triaged, then no response| Self hosted| Trusted hacker     | 1 
+| **[Standard.com](https://www.standard.com/get-to-know-standard/responsible-disclosure-program)**    | No rewards<sup>1</sup> |Self hosted| Trusted hacker        | 1
+| **[H&M](https://www.hm.com/security.txt)** | No rewards<sup>1</sup> |Self hosted|  Trusted hacker | 1
+| **[Celonis](https://www.celonis.com/pdf/vulnerability-disclosure-program/)** | Ignored reports<sup>2</sup> | Self hosted |Trusted hacker        | 1
+| **[Kaseya](https://www.kaseya.com/trust-center/vulnerability-disclosure-policy/)** | Report triaged, then no replies| Self hosted| Trusted hacker     | 1 
 | **[TataPlay](https://www.tataplay.com/bug-bounty-hunter)** | Automated Response, then no response | Self hosted| Trusted Hacker | 1
-| **[Roche](https://hackerone.com/roche?type=team)** | They fix reports but mark them as Out of scope (subdomain takeovers). They won't invite you to their private program unless you report a P1/P2 bug. They mark report as duplicated when they are fresh subdomain takeovers. They claimed all DNS takeovers were dups without having the full list of domains (150 cases). |Self hosted | Trusted Hacker | 2
+| **[Roche](https://hackerone.com/roche?type=team)** | They fix reports but mark them as Out of scope. They won't invite you to their private program unless you report a P1/P2 bug. They mark report as duplicated when they are fresh subdomain takeovers. They claimed all DNS takeovers were dups without having the full list of domains (150 cases). |Self hosted | Trusted Hacker | 2
 | **[Synack](https://synack.responsibledisclosure.com/hc/en-us)** | They will assign a reward only if you have an account in their site (which is very difficult to get) |Self hosted | Trusted Hacker | 1
-| **[Zeiss](https://www.zeiss.com/disclosure-policy.pdf)**| Ignored reports | Self hosted |Trusted hacker        | 1
+| **[Zeiss](https://www.zeiss.com/disclosure-policy.pdf)**| Ignored reports<sup>2</sup> | Self hosted |Trusted hacker        | 1
 | **[Alefed](https://vdp.alefeducation.com/p/Vulnerability-Disclosure-Policy-and-Submission-Form)**| Set CVSS as 0 but fixed the bug |Self hosted+YesWeHack|Trusted hacker | 1
-
+| **[Cex.io](https://blog.cex.io/news/cex-io-bug-bounty-program-and-policy-22948)**| Failed to pay<sup>3</sup> | Self hosted | Trusted hacker | 1 
 
 ## Details
 
-- Ignored reports: They never replied back to researcher. Never > 2 months and counting.
-- No rewards: They promise rewards for reports in their program, but fail to pay them. Sometimes they just say they stopped paying rewards or they can't do it anymore. 
+
+- <sup>1</sup>No rewards: They promise rewards for reports in their program, but fail to pay them. Sometimes they just say they stopped paying rewards or they can't do it anymore.
+- <sup>2</sup>Ignored reports: They never replied back to researcher. Never > 2 months and counting.
+- <sup>3</sup>Failed to pay: Agreed to pay a bounty but never accomplished it. Often ignoring follow-up emails. 
