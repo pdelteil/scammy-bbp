@@ -37,3 +37,4 @@ Signs of a Potentially Scammy Bug Bounty Program:
 - <sup>8</sup>**Duplicate Mirage:** They mark all (future) reports as dups without having the full list of domains. 
 - <sup>9</sup>**Scope Surprise!:** They define their  Inscope and Outscope after you send the report, they dont write down in their program brief.
 - <sup>10</sup>**Reward Gatekeepers:** They will pay a reward only if you have an account in their site (which might very difficult to get).
+- <sup>11</sup>**Bounty Roulette:** Not clear if they pay bounties or not
