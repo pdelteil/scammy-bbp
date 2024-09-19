@@ -25,6 +25,7 @@ Signs of a Potentially Scammy Bug Bounty Program:
 | **[Zopa](https://zopa.com/.well-known/security.txt)** | Scope Surprise!<sup>9</sup> |Self hosted | Trusted hacker | 1
 | **[Atos](https://hackerone.com/atos?type=team)**| Bounty Roulette<sup>11</sup>|Self hosted | Trusted hacker | 1
 | **[LuminPDF](https://www.luminpdf.com/bug-bounty-program)** | No impact but fixed<sup>3</sup>|Self hosted | Trusted hacker | 1
+| **[Swisscom](https://github.com/swisscom/bugbounty)** | Pre-emptive entry, since someone will be unhappy with the program eventually | Self hosted | Program manager | 1
 
 ## Details
 
