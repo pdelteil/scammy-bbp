@@ -24,6 +24,10 @@ Signs of a Potentially Scammy Bug Bounty Program:
 | **[Zopa](https://zopa.com/.well-known/security.txt)** | Scope Surprise!<sup>9</sup> |Self hosted | Trusted hacker | 1
 | **[Atos](https://hackerone.com/atos?type=team)**| Bounty Roulette<sup>11</sup>|Self hosted | Trusted hacker | 1
 | **[LuminPDF](https://www.luminpdf.com/bug-bounty-program)** | No impact but fixed<sup>3</sup>|Self hosted | Trusted hacker | 1
+| **[ItsLearning](https://itslearning.com/privacy-commitment/responsible-disclosure)** | Fixed and Ignored Reports<sup>2</sup> | Self hosted | Trusted Hacker | 1
+| **[Resortdata](https://www.resortdata.com/about/responsible-disclosure/)** | Fixed and Ignored Reports<sup>2</sup> | Self hosted | Trusted Hacker | 1
+| **[Scalr](https://www.scalr.com/system-description)** | No impact but fixed<sup>3</sup> | Self hosted | Trusted Hacker | 1
+| **[Zynga](https://www.zynga.com/security/rdp)** | Fixed and Ignored Reports<sup>2</sup> | Self hosted | Trusted Hacker | 1
 
 ## Details
 
