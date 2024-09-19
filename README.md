@@ -24,6 +24,7 @@ Signs of a Potentially Scammy Bug Bounty Program:
 | **[Roche](https://hackerone.com/roche?type=team)** | Patch & Pass<sup>5</sup><br> Duplicate Disguise<sup>7</sup><br>Duplicate Mirage<sup>8</sup> |Self hosted | Trusted Hacker | 2
 | **[Zopa](https://zopa.com/.well-known/security.txt)** | Scope Surprise!<sup>9</sup> |Self hosted | Trusted hacker | 1
 | **[Atos](https://hackerone.com/atos?type=team)**| Bounty Roulette<sup>11</sup>|Self hosted | Trusted hacker | 1
+| **[LuminPDF](https://www.luminpdf.com/bug-bounty-program)** | No impact but fixed<sup>3</sup>|Self hosted | Trusted hacker | 1
 
 ## Details
 
