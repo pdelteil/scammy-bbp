@@ -21,7 +21,7 @@ Signs of a Potentially Scammy Bug Bounty Program:
 | **[Zeiss](https://www.zeiss.com/disclosure-policy.pdf)**| Ignored reports<sup>2</sup> | Self hosted |Trusted hacker| 1
 | **[Alefed](https://vdp.alefeducation.com/p/Vulnerability-Disclosure-Policy-and-Submission-Form)**| No impact but fixed<sup>3</sup> |Self hosted+YesWeHack|Trusted hacker | 1
 | **[Cex.io](https://blog.cex.io/news/cex-io-bug-bounty-program-and-policy-22948)**| Failed to pay<sup>4</sup> | Self hosted | Trusted hacker | 1 
-| **[Roche](https://hackerone.com/roche?type=team)** | Patch & Pass<sup>5</sup><br> Duplicate Disguise<sup>7</sup><br>Duplicate Mirage<sup>8</sup> |Self hosted | Trusted Hacker | 2
+| **[Roche](https://hackerone.com/roche?type=team)** | Patch & Pass<sup>5</sup><br> Duplicate Disguise<sup>7</sup><br>Duplicate Mirage<sup>8</sup><br>Smokescreen Smackdown<sup>12</sup>|Self hosted | Trusted Hacker | 2
 | **[Zopa](https://zopa.com/.well-known/security.txt)** | Scope Surprise!<sup>9</sup> |Self hosted | Trusted hacker | 1
 | **[Atos](https://hackerone.com/atos?type=team)**| Bounty Roulette<sup>11</sup>|Self hosted | Trusted hacker | 1
 | **[LuminPDF](https://www.luminpdf.com/bug-bounty-program)** | No impact but fixed<sup>3</sup>|Self hosted | Trusted hacker | 1
@@ -39,3 +39,4 @@ Signs of a Potentially Scammy Bug Bounty Program:
 - <sup>9</sup>**Scope Surprise!:** They define their  Inscope and Outscope after you send the report, they dont write down in their program brief.
 - <sup>10</sup>**Reward Gatekeepers:** They will pay a reward only if you have an account in their site (which might very difficult to get).
 - <sup>11</sup>**Bounty Roulette:** Not clear if they pay bounties or not
+- <sup>12</sup>**Smokescreen Smackdown:** When a company tries to damage the reputation of a reporter.
