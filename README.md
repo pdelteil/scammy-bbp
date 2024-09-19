@@ -15,7 +15,6 @@ Signs of a Potentially Scammy Bug Bounty Program:
 | **[Standard.com](https://www.standard.com/get-to-know-standard/responsible-disclosure-program)**    | No rewards<sup>1</sup> |Self hosted| Trusted hacker        | 1
 | **[H&M](https://www.hm.com/security.txt)** | No rewards<sup>1</sup> |Self hosted|  Trusted hacker | 2
 | **[Celonis](https://www.celonis.com/pdf/vulnerability-disclosure-program/)** | Ignored reports<sup>2</sup> | Self hosted |Trusted hacker        | 1
-| **[Kaseya](https://www.kaseya.com/trust-center/vulnerability-disclosure-policy/)** | Report triaged, then no replies| Self hosted| Trusted hacker     | 1 
 | **[TataPlay](https://www.tataplay.com/bug-bounty-hunter)** | Automated Response, then no response | Self hosted| Trusted Hacker | 1
 | **[Synack](https://synack.responsibledisclosure.com/hc/en-us)** | Reward Gatekeepers<sup>10</sup>|Self hosted | Trusted Hacker | 1
 | **[Zeiss](https://www.zeiss.com/disclosure-policy.pdf)**| Ignored reports<sup>2</sup> | Self hosted |Trusted hacker| 1
