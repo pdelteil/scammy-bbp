@@ -28,6 +28,7 @@ Signs of a Potentially Scammy Bug Bounty Program:
 | **[Resortdata](https://www.resortdata.com/about/responsible-disclosure/)** | Fixed and Ignored Reports<sup>2</sup> | Self hosted | Trusted Hacker | 1
 | **[Scalr](https://www.scalr.com/system-description)** | No impact but fixed<sup>3</sup> | Self hosted | Trusted Hacker | 1
 | **[Zynga](https://www.zynga.com/security/rdp)** | Fixed and Ignored Reports<sup>2</sup> | Self hosted | Trusted Hacker | 1
+| **[AppyPie](https://www.appypie.com/security)** | Intentional Reduce Impact<sup>13</sup><br>Scope Surprise!<sup>9</sup> <br> Patch & Pass<sup>5</sup> | Self hosted | Trusted Hacker | 1
 
 ## Details
 
@@ -43,3 +44,4 @@ Signs of a Potentially Scammy Bug Bounty Program:
 - <sup>10</sup>**Reward Gatekeepers:** They will pay a reward only if you have an account in their site (which might very difficult to get).
 - <sup>11</sup>**Bounty Roulette:** Not clear if they pay bounties or not
 - <sup>12</sup>**Smokescreen Smackdown:** When a company tries to damage the reputation of a reporter.
+- <sup>13</sup>**Intentional Reduce Impact:** When a company reduces the Impact of a critical vulnerability intentionally to avoid paying Bounties for critical issues.
