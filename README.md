@@ -36,7 +36,8 @@ The input for this section are public reports and writeups made by researchers.
 | Program Name     | Report       | Problems | Discussion
 |----------------|---------------|------------|---------------
 | **[Hackerone]()**|[2180521](https://hackerone.com/reports/2180521)|CVSS magic| https://github.com/pdelteil/scammy-bbp/discussions/9
-|**[Gitlab]()**| [2523654](https://hackerone.com/reports/2523654) | CVSS magic| https://github.com/pdelteil/scammy-bbp/discussions/8
+|**[Gitlab]()**| [2523654](https://hackerone.com/reports/2523654)|CVSS magic| https://github.com/pdelteil/scammy-bbp/discussions/8
+|**[Zendesk]()**| [URL](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52)|Sacred Out of Scope| https://github.com/pdelteil/scammy-bbp/discussions/10
 
 ## Details
 
