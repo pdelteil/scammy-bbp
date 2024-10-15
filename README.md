@@ -29,6 +29,12 @@ Signs of a Potentially Scammy Bug Bounty Program:
 | **[Scalr](https://www.scalr.com/system-description)** | No impact but fixed<sup>3</sup> | Self hosted | Trusted Hacker | 1
 | **[Zynga](https://www.zynga.com/security/rdp)** | Fixed and Ignored Reports<sup>2</sup> | Self hosted | Trusted Hacker | 1
 
+## Hackerone
+
+| Program Name     | Report       | Problems | Discussion
+|----------------|---------------|------------|---------------
+|**[Gitlab]()**| [2523654](https://hackerone.com/reports/2523654) | CVSS magic| https://github.com/pdelteil/scammy-bbp/discussions/8
+
 ## Details
 
 - <sup>1</sup>**No rewards:** They promise rewards for reports in their program, but fail to pay them. Sometimes they just say they stopped paying rewards or they can't do it anymore.
