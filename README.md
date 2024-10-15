@@ -31,6 +31,8 @@ Signs of a Potentially Scammy Bug Bounty Program:
 
 ## Hackerone
 
+The input for this section are public reports and writeups made by researchers. 
+
 | Program Name     | Report       | Problems | Discussion
 |----------------|---------------|------------|---------------
 | **[Hackerone]()**|[2180521](https://hackerone.com/reports/2180521)|CVSS magic| https://github.com/pdelteil/scammy-bbp/discussions/9
