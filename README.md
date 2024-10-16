@@ -28,6 +28,8 @@ Signs of a Potentially Scammy Bug Bounty Program:
 | **[Resortdata](https://www.resortdata.com/about/responsible-disclosure/)** | Fixed and Ignored Reports<sup>2</sup> | Self hosted | Trusted Hacker | 1
 | **[Scalr](https://www.scalr.com/system-description)** | No impact but fixed<sup>3</sup> | Self hosted | Trusted Hacker | 1
 | **[Zynga](https://www.zynga.com/security/rdp)** | Fixed and Ignored Reports<sup>2</sup> | Self hosted | Trusted Hacker | 1
+| **[MissiveApp](https://missiveapp.com/)** | Ignored Reports<sup>2</sup> | Self hosted | Trusted Hacker | 1
+| **[Komoot](https://www.komoot.com/security/bug-bounty)** | Fixed and Ignored Reports<sup>2</sup> | Self hosted | Trusted Hacker | 1
 
 ## Hackerone
 
