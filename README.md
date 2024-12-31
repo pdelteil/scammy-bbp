@@ -12,7 +12,6 @@ Signs of a Potentially Scammy Bug Bounty Program:
 
 | Program Name              | Issues Reported                                        | Platform | Source     | Hits
 |---------------------------|-------------------------------------------------------|------------|----------------------| ------
-| **[Standard.com](https://www.standard.com/get-to-know-standard/responsible-disclosure-program)**    | No rewards<sup>1</sup> |Self hosted| Trusted hacker        | 1
 | **[H&M](https://www.hm.com/security.txt)** | No rewards<sup>1</sup> |Self hosted|  Trusted hacker | 2
 | **[Celonis](https://www.celonis.com/pdf/vulnerability-disclosure-program/)** | Ignored reports<sup>2</sup> | Self hosted |Trusted hacker        | 1
 | **[TataPlay](https://www.tataplay.com/bug-bounty-hunter)** | Automated Response, then no response | Self hosted| Trusted Hacker | 1
@@ -27,6 +26,7 @@ Signs of a Potentially Scammy Bug Bounty Program:
 | **[ItsLearning](https://itslearning.com/privacy-commitment/responsible-disclosure)** | Fixed and Ignored Reports<sup>2</sup> | Self hosted | Trusted Hacker | 1
 | **[Resortdata](https://www.resortdata.com/about/responsible-disclosure/)** | Fixed and Ignored Reports<sup>2</sup> | Self hosted | Trusted Hacker | 1
 | **[Scalr](https://www.scalr.com/system-description)** | No impact but fixed<sup>3</sup> | Self hosted | Trusted Hacker | 1
+| **[Standard Bank](http://www.standardbank.co.za/)** | Fixed and Ignored Reports<sup>2</sup> | Self hosted | Trusted Hacker | 1
 | **[Zynga](https://www.zynga.com/security/rdp)** | Fixed and Ignored Reports<sup>2</sup> | Self hosted | Trusted Hacker | 1
 | **[Microsoft](https://www.microsoft.com/en-us/msrc/bounty)** | Fixed and Ignored Reports<sup>2</sup> <br>  | Self hosted | Trusted Hacker | 2
 
