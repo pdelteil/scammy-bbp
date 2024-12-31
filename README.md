@@ -29,6 +29,7 @@ Signs of a Potentially Scammy Bug Bounty Program:
 | **[Standard Bank](http://www.standardbank.co.za/)** | Fixed and Ignored Reports<sup>2</sup> | Self hosted | Trusted Hacker | 1
 | **[Zynga](https://www.zynga.com/security/rdp)** | Fixed and Ignored Reports<sup>2</sup> | Self hosted | Trusted Hacker | 1
 | **[Microsoft](https://www.microsoft.com/en-us/msrc/bounty)** | Fixed and Ignored Reports<sup>2</sup> <br>  | Self hosted | Trusted Hacker | 2
+| **[Circle BBP](https://hackerone.com/circle-bbp)** | Mark valid bugs that have never been seen before as duplicate and mark critical bugs as informational, given with appropriate exploitation scenarios as well<sup>2</sup> <br>  | Self hosted | Trusted Hacker | 2
 
 
 ## Hackerone
