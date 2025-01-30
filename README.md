@@ -40,6 +40,13 @@ The input for this section are public reports and writeups made by researchers.
 | **[Hackerone]()**|[2180521](https://hackerone.com/reports/2180521)|CVSS magic| https://github.com/pdelteil/scammy-bbp/discussions/9
 |**[Zendesk]()**| [URL](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52)|Sacred Out of Scope| https://github.com/pdelteil/scammy-bbp/discussions/10
 
+## BugCrowd
+
+| Program Name              | Issues Reported                                        | Platform | Source     | Hits
+|----------------|---------------|------------|---------------
+| **[WesternUnion]** | Fixed and Ignored Reports<sup>2</sup> <br> Dupe-n-Dump<sup>13</sup>  | Self hosted | Trusted Hacker | 2
+
+
 ## Details
 
 - <sup>1</sup>**No rewards:** They promise rewards for reports in their program, but fail to pay them. Sometimes they just say they stopped paying rewards or they can't do it anymore.
@@ -54,3 +61,4 @@ The input for this section are public reports and writeups made by researchers.
 - <sup>10</sup>**Reward Gatekeepers:** They will pay a reward only if you have an account in their site (which might very difficult to get).
 - <sup>11</sup>**Bounty Roulette:** Not clear if they pay bounties or not
 - <sup>12</sup>**Smokescreen Smackdown:** When a company tries to damage the reputation of a reporter.
+- <sup>13</sup>**Dupe-n-Dump :** They mark all reports of the same type/class as dups.
