@@ -44,7 +44,7 @@ The input for this section are public reports and writeups made by researchers.
 
 | Program Name              | Issues Reported                                        | Platform | Source     | Hits
 |---------------------------|-------------------------------------------------------|------------|----------------------| ------
-| **[WesternUnion]** | Fixed and Ignored Reports<sup>2</sup> <br> Dupe-n-Dump<sup>13</sup>  | Self hosted | Trusted Hacker | 2
+| **WesternUnion** | Fixed and Ignored Reports<sup>2</sup> <br> Dupe-n-Dump<sup>13</sup>  | Self hosted | Trusted Hacker | 2
 
 
 ## Details
