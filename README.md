@@ -29,6 +29,7 @@ Signs of a Potentially Scammy Bug Bounty Program:
 | **[Standard Bank](http://www.standardbank.co.za/)** | Fixed and Ignored Reports<sup>2</sup> | Self hosted | Trusted Hacker | 1
 | **[Zynga](https://www.zynga.com/security/rdp)** | Fixed and Ignored Reports<sup>2</sup> | Self hosted | Trusted Hacker | 1
 | **[Microsoft](https://www.microsoft.com/en-us/msrc/bounty)** | Fixed and Ignored Reports<sup>2</sup> <br>  | Self hosted | Trusted Hacker | 2
+| **[Cimpress](https://cimpress.com/privacy-security/)** | Bounty Roulette<sup>11</sup> | Self hosted | Trusted Hacker | 2
 
 
 ## Hackerone
@@ -59,6 +60,6 @@ The input for this section are public reports and writeups made by researchers.
 - <sup>8</sup>**Duplicate Mirage:** They mark all (future) reports as dups without having the full list of domains. 
 - <sup>9</sup>**Scope Surprise!:** They define their  Inscope and Outscope after you send the report, they dont write down in their program brief.
 - <sup>10</sup>**Reward Gatekeepers:** They will pay a reward only if you have an account in their site (which might very difficult to get).
-- <sup>11</sup>**Bounty Roulette:** Not clear if they pay bounties or not
+- <sup>11</sup>**Bounty Roulette:** Not clear if they pay bounties or not. Often times the include deciving information: calling their page or site 'bug bounty program', having an email address containing bug bounty, etc. 
 - <sup>12</sup>**Smokescreen Smackdown:** When a company tries to damage the reputation of a reporter.
 - <sup>13</sup>**Dupe-n-Dump :** They mark all reports of the same type/class as dups.
