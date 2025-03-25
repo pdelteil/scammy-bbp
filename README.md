@@ -58,7 +58,7 @@ The input for this section are public reports and writeups made by researchers.
 - <sup>6</sup>**P1 or You're Out:** They won't invite you to their private program unless you report a P1/High bug.
 - <sup>7</sup>**Duplicate Disguise:** They mark reports as duplicated when they are very unlikely to be reported before.
 - <sup>8</sup>**Duplicate Mirage:** They mark all (future) reports as dups without having the full list of domains. 
-- <sup>9</sup>**Scope Surprise!:** They define their  Inscope and Outscope after you send the report, they dont write down in their program brief.
+- <sup>9</sup>**Scope Surprise!:** They define their `in scope` and `out scope` after you send the report, they don't write it down in their program brief.
 - <sup>10</sup>**Reward Gatekeepers:** They will pay a reward only if you have an account in their site (which might very difficult to get).
 - <sup>11</sup>**Bounty Roulette:** Not clear if they pay bounties or not. Often times the include deciving information: calling their page or site 'bug bounty program', having an email address containing bug bounty, etc. 
 - <sup>12</sup>**Smokescreen Smackdown:** When a company tries to damage the reputation of a reporter.
