@@ -1,3 +1,34 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=pdelteil&project=scammy-bbp&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=pdelteil&project=scammy-bbp&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=pdelteil&project=scammy-bbp&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=pdelteil&project=scammy-bbp&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=pdelteil&project=scammy-bbp&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=pdelteil&project=scammy-bbp&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=pdelteil&project=scammy-bbp&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=pdelteil&project=scammy-bbp&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=pdelteil&project=scammy-bbp&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=pdelteil&project=scammy-bbp&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=pdelteil&project=scammy-bbp&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=pdelteil&project=scammy-bbp&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=pdelteil&project=scammy-bbp&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=pdelteil&project=scammy-bbp&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=pdelteil&project=scammy-bbp&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=pdelteil&project=scammy-bbp&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=pdelteil&project=scammy-bbp&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=pdelteil&project=scammy-bbp&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=pdelteil&project=scammy-bbp&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=pdelteil&project=scammy-bbp&lang=id">Bahasa Indonesia</a>
+      </div>
+    </div>
+  </details>
+</div>
+
 # scammy-bbp
 Bug bounty programs that are "scammy" or unethical can sometimes involve promising rewards to researchers for identifying security flaws, but either delay payments, don't pay at all, or misuse the disclosed vulnerabilities. 
 
