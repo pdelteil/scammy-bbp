@@ -31,7 +31,7 @@ Signs of a Potentially Scammy Bug Bounty Program:
 | **[Microsoft](https://www.microsoft.com/en-us/msrc/bounty)** | Fixed and Ignored Reports<sup>2</sup> <br>  | Self hosted | Trusted Hacker | 2
 | **[Cimpress](https://cimpress.com/privacy-security/)** | Bounty Roulette<sup>11</sup> | Self hosted | Trusted Hacker | 2
 | **[Swiggy](https://www.swiggy.com/bug-bounty)** | No rewards<sup>1</sup> | Self hosted | Trusted Hacker | 1
-
+| **[SignageOS](https://www.signageos.io/legal/bug-bounty)** | No rewards<sup>1</sup> | Self hosted | Trusted Hacker | 1
 
 ## Hackerone
 
