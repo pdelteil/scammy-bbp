@@ -32,7 +32,8 @@ Signs of a Potentially Scammy Bug Bounty Program:
 | **[Cimpress](https://cimpress.com/privacy-security/)** | Bounty Roulette<sup>11</sup> | Self hosted | Trusted Hacker | 2
 | **[Swiggy](https://www.swiggy.com/bug-bounty)** | No rewards<sup>1</sup> | Self hosted | Trusted Hacker | 1
 | **[SignageOS](https://www.signageos.io/legal/bug-bounty)** | No rewards<sup>1</sup> | Self hosted | Trusted Hacker | 1
- |**[Parity Technologies](https://www.parity.io/bug-bounty)** | Ignored reports<sup>2</sup> | Self hosted |Trusted hacker        | 1
+| **[Parity Technologies](https://www.parity.io/bug-bounty)** | Ignored reports<sup>2</sup> | Self hosted |Trusted hacker | 1
+| **[Lark Technologies](https://hackerone.com/lark_technologies)** | Ignored reports<sup>2</sup> | Hackerone |Trusted hacker | 1
 
 ## Hackerone
 
