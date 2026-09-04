@@ -12,7 +12,6 @@ Signs of a Potentially Scammy Bug Bounty Program:
 
 | Program Name              | Issues Reported                                        | Platform | Source     | Hits|Discussions
 |---------------------------|-------------------------------------------------------|------------|----------------------| -------| -----
-| Program | Response | Hosting | Type | Count |
 | **[Alefed](https://vdp.alefeducation.com/p/Vulnerability-Disclosure-Policy-and-Submission-Form)** | No impact but fixed<sup>3</sup> | Self hosted+YesWeHack | Trusted hacker | 1 |
 | **[Atos](https://hackerone.com/atos?type=team)** | Bounty Roulette<sup>11</sup> | Self hosted | Trusted hacker | 1 |
 | **[Bambu Lab](https://bambulab.com/en/bug-bounty-program)** |  Ignored reports<sup>2</sup> | Self hosted | Trusted hacker | 1 |
