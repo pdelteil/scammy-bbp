@@ -12,28 +12,31 @@ Signs of a Potentially Scammy Bug Bounty Program:
 
 | Program Name              | Issues Reported                                        | Platform | Source     | Hits|Discussions
 |---------------------------|-------------------------------------------------------|------------|----------------------| -------| -----
-| **[H&M](https://www.hm.com/security.txt)** | No rewards<sup>1</sup> |Self hosted|  Trusted hacker | 2|
-| **[Celonis](https://www.celonis.com/pdf/vulnerability-disclosure-program/)** | Ignored reports<sup>2</sup> | Self hosted |Trusted hacker        | 1|
-| **[TataPlay](https://www.tataplay.com/bug-bounty-hunter)** | Automated Response, then no response | Self hosted| Trusted Hacker | 1|
-| **[Synack](https://synack.responsibledisclosure.com/hc/en-us)** | Reward Gatekeepers<sup>10</sup>|Self hosted | Trusted Hacker | 1|
-| **[Zeiss](https://www.zeiss.com/disclosure-policy.pdf)**| Ignored reports<sup>2</sup> | Self hosted |Trusted hacker| 1|
-| **[Alefed](https://vdp.alefeducation.com/p/Vulnerability-Disclosure-Policy-and-Submission-Form)**| No impact but fixed<sup>3</sup> |Self hosted+YesWeHack|Trusted hacker | 1|
-| **[Cex.io](https://blog.cex.io/news/cex-io-bug-bounty-program-and-policy-22948)**| Failed to pay<sup>4</sup> | Self hosted | Trusted hacker | 1 |
-| **[Roche](https://hackerone.com/roche?type=team)** | Patch & Pass<sup>5</sup><br> Duplicate Disguise<sup>7</sup><br>Duplicate Mirage<sup>8</sup><br>Smokescreen Smackdown<sup>12</sup>|Self hosted | Trusted Hacker | 2|
-| **[Zopa](https://zopa.com/.well-known/security.txt)** | Scope Surprise!<sup>9</sup> |Self hosted | Trusted hacker | 1|
-| **[Atos](https://hackerone.com/atos?type=team)**| Bounty Roulette<sup>11</sup>|Self hosted | Trusted hacker | 1|
-| **[LuminPDF](https://www.luminpdf.com/bug-bounty-program)** | No impact but fixed<sup>3</sup>|Self hosted | Trusted hacker | 1|
-| **[ItsLearning](https://itslearning.com/privacy-commitment/responsible-disclosure)** | Fixed and Ignored Reports<sup>2</sup> | Self hosted | Trusted Hacker | 1|
-| **[Resortdata](https://www.resortdata.com/about/responsible-disclosure/)** | Fixed and Ignored Reports<sup>2</sup> | Self hosted | Trusted Hacker | 1|
-| **[Scalr](https://www.scalr.com/system-description)** | No impact but fixed<sup>3</sup> | Self hosted | Trusted Hacker | 1|
-| **[Standard Bank](http://www.standardbank.co.za/)** | Fixed and Ignored Reports<sup>2</sup> | Self hosted | Trusted Hacker | 1|
-| **[Zynga](https://www.zynga.com/security/rdp)** | Fixed and Ignored Reports<sup>2</sup> | Self hosted | Trusted Hacker | 1|
-| **[Microsoft](https://www.microsoft.com/en-us/msrc/bounty)** | Fixed and Ignored Reports<sup>2</sup> <br>  | Self hosted | Trusted Hacker | 2|
-| **[Cimpress](https://cimpress.com/privacy-security/)** | Bounty Roulette<sup>11</sup> | Self hosted | Trusted Hacker | 2|
-| **[Swiggy](https://www.swiggy.com/bug-bounty)** | No rewards<sup>1</sup> | Self hosted | Trusted Hacker | 1|
-| **[SignageOS](https://www.signageos.io/legal/bug-bounty)** | No rewards<sup>1</sup> | Self hosted | Trusted Hacker | 1|
-|**[Parity Technologies](https://www.parity.io/bug-bounty)** | Ignored reports<sup>2</sup> | Self hosted |Trusted hacker        | 1| 
-|**[Piwik Pro](https://piwik.pro/bug-bounty-program)** | Rejected POC | Self hosted |Trusted hacker | 2 | [Discussion](https://github.com/pdelteil/scammy-bbp/discussions/18)
+| Program | Response | Hosting | Type | Count |
+|---|---|---|---|---|
+| **[Alefed](https://vdp.alefeducation.com/p/Vulnerability-Disclosure-Policy-and-Submission-Form)** | No impact but fixed<sup>3</sup> | Self hosted+YesWeHack | Trusted hacker | 1 |
+| **[Atos](https://hackerone.com/atos?type=team)** | Bounty Roulette<sup>11</sup> | Self hosted | Trusted hacker | 1 |
+| **[Bambu Lab](https://bambulab.com/en/bug-bounty-program)** |  Ignored reports<sup>2</sup> | Self hosted | Trusted hacker | 1 |
+| **[Celonis](https://www.celonis.com/pdf/vulnerability-disclosure-program/)** | Ignored reports<sup>2</sup> | Self hosted | Trusted hacker | 1 |
+| **[Cex.io](https://blog.cex.io/news/cex-io-bug-bounty-program-and-policy-22948)** | Failed to pay<sup>4</sup> | Self hosted | Trusted hacker | 1 |
+| **[Cimpress](https://cimpress.com/privacy-security/)** | Bounty Roulette<sup>11</sup> | Self hosted | Trusted Hacker | 2 |
+| **[H&M](https://www.hm.com/security.txt)** | No rewards<sup>1</sup> | Self hosted | Trusted hacker | 2 |
+| **[ItsLearning](https://itslearning.com/privacy-commitment/responsible-disclosure)** | Fixed and Ignored Reports<sup>2</sup> | Self hosted | Trusted Hacker | 1 |
+| **[LuminPDF](https://www.luminpdf.com/bug-bounty-program)** | No impact but fixed<sup>3</sup> | Self hosted | Trusted hacker | 1 |
+| **[Microsoft](https://www.microsoft.com/en-us/msrc/bounty)** | Fixed and Ignored Reports<sup>2</sup> | Self hosted | Trusted Hacker | 2 |
+| **[Parity Technologies](https://www.parity.io/bug-bounty)** | Ignored reports<sup>2</sup> | Self hosted | Trusted hacker | 1 |
+| **[Piwik Pro](https://piwik.pro/bug-bounty-program)** | Rejected POC | Self hosted | Trusted hacker | 2 | [Discussion](https://github.com/pdelteil/scammy-bbp/discussions/18) |
+| **[Resortdata](https://www.resortdata.com/about/responsible-disclosure/)** | Fixed and Ignored Reports<sup>2</sup> | Self hosted | Trusted Hacker | 1 |
+| **[Roche](https://hackerone.com/roche?type=team)** | Patch & Pass<sup>5</sup><br> Duplicate Disguise<sup>7</sup><br>Duplicate Mirage<sup>8</sup><br>Smokescreen Smackdown<sup>12</sup> | Self hosted | Trusted Hacker | 2 |
+| **[Scalr](https://www.scalr.com/system-description)** | No impact but fixed<sup>3</sup> | Self hosted | Trusted Hacker | 1 |
+| **[SignageOS](https://www.signageos.io/legal/bug-bounty)** | No rewards<sup>1</sup> | Self hosted | Trusted Hacker | 1 |
+| **[Standard Bank](http://www.standardbank.co.za/)** | Fixed and Ignored Reports<sup>2</sup> | Self hosted | Trusted Hacker | 1 |
+| **[Swiggy](https://www.swiggy.com/bug-bounty)** | No rewards<sup>1</sup> | Self hosted | Trusted Hacker | 1 |
+| **[Synack](https://synack.responsibledisclosure.com/hc/en-us)** | Reward Gatekeepers<sup>10</sup> | Self hosted | Trusted Hacker | 1 |
+| **[TataPlay](https://www.tataplay.com/bug-bounty-hunter)** | Automated Response, then no response | Self hosted | Trusted Hacker | 1 |
+| **[Zeiss](https://www.zeiss.com/disclosure-policy.pdf)** | Ignored reports<sup>2</sup> | Self hosted | Trusted hacker | 1 |
+| **[Zopa](https://zopa.com/.well-known/security.txt)** | Scope Surprise!<sup>9</sup> | Self hosted | Trusted hacker | 1 |
+| **[Zynga](https://www.zynga.com/security/rdp)** | Fixed and Ignored Reports<sup>2</sup> | Self hosted | Trusted Hacker | 1 |
 
 ## Hackerone
 
