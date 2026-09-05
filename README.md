@@ -14,7 +14,6 @@ Signs of a Potentially Scammy Bug Bounty Program:
 |---------------------------|-------------------------------------------------------|------------|----------------------| -------| -----
 | **[Alefed](https://vdp.alefeducation.com/p/Vulnerability-Disclosure-Policy-and-Submission-Form)** | No impact but fixed<sup>3</sup> | Self hosted+YesWeHack | Trusted hacker | 1 |
 | **[Atos](https://hackerone.com/atos?type=team)** | Bounty Roulette<sup>11</sup> | Self hosted | Trusted hacker | 1 |
-| **[Bambu Lab](https://bambulab.com/en/bug-bounty-program)** |  Ignored reports<sup>2</sup> | Self hosted | Trusted hacker | 1 |
 | **[Celonis](https://www.celonis.com/pdf/vulnerability-disclosure-program/)** | Ignored reports<sup>2</sup> | Self hosted | Trusted hacker | 1 |
 | **[Cex.io](https://blog.cex.io/news/cex-io-bug-bounty-program-and-policy-22948)** | Failed to pay<sup>4</sup> | Self hosted | Trusted hacker | 1 |
 | **[Cimpress](https://cimpress.com/privacy-security/)** | Bounty Roulette<sup>11</sup> | Self hosted | Trusted Hacker | 2 |
